@@ -2,4 +2,7 @@
 a = 10
 b = 20
 c = a+b
-print(C)
+print(c)
+print(a*b)
+
+
